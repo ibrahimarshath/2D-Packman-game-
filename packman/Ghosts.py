@@ -1,9 +1,4 @@
-from termcolor import colored
-from initialize_game import initialize_game
-from Draw_board import draw_board
-from Ghosts import move_ghosts
-from Pacman_ import move_pacman
-from pills import count_pills
+import random
 from positions import find_positions
 
 def move_ghosts(game_map):
