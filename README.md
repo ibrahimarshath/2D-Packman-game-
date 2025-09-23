@@ -1,1 +1,1 @@
-# 2D-Packman-game-
+# 2D-Pacman-game-
